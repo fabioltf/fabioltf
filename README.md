@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fabio Latifi
 - 👀 I’m interested in finding a job in Munich as a Junior Web Developer
-- 🌱 I’m currently learning PHP
-- 📣 Then I will switch to React and Node.js
+- 🌱 I’ll be soon learning React
+- 📣 Then I will switch to Node.js
 - 📫 How to reach me --> const fabioInfo = {
                               mail: fabioltf@gmail.com,
                               tel: protectedTel,
