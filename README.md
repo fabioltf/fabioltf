@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Fabio Latifi
+- 👋 Hi, I’m Fabio Latifi and I'm a Web Developer
 - 👀 I’m interested in finding a job in Munich as a Junior Web Developer
 - 🌱 I’ll be soon learning React
 - 📣 Then I will switch to Node.js
